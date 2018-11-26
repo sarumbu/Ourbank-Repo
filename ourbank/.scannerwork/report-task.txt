@@ -1,0 +1,5 @@
+projectKey=ourbank
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/ourbank
+ceTaskId=AWACSDWvU_jTJeRVSciZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWACSDWvU_jTJeRVSciZ
