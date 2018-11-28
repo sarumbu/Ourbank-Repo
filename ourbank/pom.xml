@@ -109,9 +109,10 @@
 				<artifactId>tomcat7-maven-plugin</artifactId> 
 				<version>2.2</version> 
 				<configuration> 
-				<path>/ourbank</path>
-				 <update>true</update>
-				</configuration> 
+				<url>http://localhost:8082</url>
+        		<server>TomcatServer</server>
+        		<path>/ourbank</path>
+        </configuration>
 				</plugin> 
 		</plugins>
 	</build>
